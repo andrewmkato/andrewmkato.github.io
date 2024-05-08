@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "andrewmkato.github.io",
+			"path": "."
+		},
+		{
+			"name": "images",
+			"path": "../../../site-test/images"
+		}
+	],
+	"settings": {}
+}

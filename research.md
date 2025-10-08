@@ -1,5 +1,7 @@
 # [Andrew Kato](https://andrewmkato.github.io)
 
+## Research
+
 I study how various hallmarks of natural language meaning, mainly quantificational scope, gradability, and metalinguistic assertions, can be modeled with theories of logic and computation. 
 
 * **Papers**

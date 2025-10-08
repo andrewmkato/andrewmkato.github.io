@@ -12,4 +12,4 @@ Los Angeles, CA 90095-1543
 
 **[Research and papers](research.md)**  
 **[Teaching](teaching.md)**  
-**[CV](/CV-Kato.pdf)**  
+**[CV](CV-Kato.pdf)**  

@@ -4,6 +4,6 @@ I'm a PhD student in UCLA's Department of Linguistics. My BA is from UC Santa Cr
 
 Email: `andrewkato@ucla.edu`
 
-335 Portola Plaza <br / >
-Department of Linguistics, UCLA <br / > 
-Los Angeles, CA 90095 <br / >
+335 Portola Plaza < br / >
+Department of Linguistics, UCLA < br / > 
+Los Angeles, CA 90095 < br / >

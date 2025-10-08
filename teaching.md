@@ -1,6 +1,6 @@
 # [Andrew Kato](https://andrewmkato.github.io)
 
-# Research
+# Teaching
 
 * At UC Santa Cruz
   * As tutor: Semantics I, Winter 2024. Dept. of Linguistics. Instructor: Jess Law.

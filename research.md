@@ -13,6 +13,6 @@ I study how various hallmarks of natural language meaning, mainly quantification
 * **Talks**
   * 'Scalarity and the contribution of correction.' Jan. 2026. Annual Meeting of the Linguistic Society of America ([LSA](https://www.lsadc.org/lsa-annual-meeting)). New Orleans.
   * 'Correcting context updates.' Nov. 2025. Logic & Engineering of Natural Language Semantics ([LENLS](https://lenls.github.io/lenls21/)) 21. Nagoya.
-  * 'Modifying degrees and their proportions.' May 2025. 61st Meeting of the Chicago Linguistic Society ([CLS](https://www.chicagolinguisticsociety.com)). University of Chicago. Slides: [pdf](/papers/pres-Kato2025-CLS61.pdf).
+  * 'Modifying degrees and their proportions.' May 2025. 61st Meeting of the Chicago Linguistic Society ([CLS](https://www.chicagolinguisticsociety.com)). University of Chicago. Slides: [PDF](/papers/pres-Kato2025-CLS61.pdf).
   * 'Modifying degrees and their proportions.' Jan. 2025. [Syntax & Semantics Circle](https://babel.ucsc.edu/~s-circle/winter2025.html). UC Santa Cruz.
-  * 'Relative quantification and equative scope-taking.' Dec. 2024. 24th Amsterdam Colloquium ([AC](https://events.illc.uva.nl/AC/AC2024/Conference/)). UvA. Slides: [pdf](/papers/pres-Kato2024-AC24.pdf).
+  * 'Relative quantification and equative scope-taking.' Dec. 2024. 24th Amsterdam Colloquium ([AC](https://events.illc.uva.nl/AC/AC2024/Conference/)). UvA. Slides: [PDF](/papers/pres-Kato2024-AC24.pdf).

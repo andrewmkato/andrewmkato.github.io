@@ -16,3 +16,5 @@ I study how various hallmarks of natural language meaning, mainly quantification
   * 'Modifying degrees and their proportions.' May 2025. 61st Meeting of the Chicago Linguistic Society ([CLS](https://www.chicagolinguisticsociety.com)). University of Chicago. Slides: [PDF](/papers/pres-Kato2025-CLS61.pdf).
   * 'Modifying degrees and their proportions.' Jan. 2025. [Syntax & Semantics Circle](https://babel.ucsc.edu/~s-circle/winter2025.html). UC Santa Cruz.
   * 'Relative quantification and equative scope-taking.' Dec. 2024. 24th Amsterdam Colloquium ([AC](https://events.illc.uva.nl/AC/AC2024/Conference/)). UvA. Slides: [PDF](/papers/pres-Kato2024-AC24.pdf).
+
+See CV for earlier talks and details. ORCID: [`0009-0003-3129-5702`](https://orcid.org/0009-0003-3129-5702).

@@ -3,8 +3,8 @@
 # Research
 
 * At UC Santa Cruz
-  * As tutor: Semantics I, Dept. of Linguistics. Winter 2024. Instructor: Jess Law.
-  * As tutor: Programming in Python, Dept. of Computer Science & Engineering. Winter 2024. Instructor: Larissa Munishkina.
-  * As course assistant: Semantics I, Dept. of Linguistics. Fall 2024. Instructor: Haoze Li. [Course repository](https://github.com/haozeli-ling/Semantics001/tree/main).
-  * As tutor: Programming in Python, Dept. of Computer Science & Engineering. Fall 2023. Instructor: Larissa Munishkina.
-  * As tutor: Programming in Python, Dept. of Computer Science & Engineering. Fall 2022. Instructor: Benedict Paten. [Course repository](https://github.com/benedictpaten/intro_python).
+  * As tutor: Semantics I, Winter 2024. Dept. of Linguistics. Instructor: Jess Law.
+  * As tutor: Programming in Python, Winter 2024. Dept. of Computer Science & Engineering. Instructor: Larissa Munishkina.
+  * As course assistant: Semantics I, Fall 2024. Dept. of Linguistics. Instructor: Haoze Li. [Course repository](https://github.com/haozeli-ling/Semantics001/tree/main).
+  * As tutor: Programming in Python, Fall 2023. Dept. of Computer Science & Engineering. Instructor: Larissa Munishkina.
+  * As tutor: Programming in Python, Fall 2022. Dept. of Computer Science & Engineering. Instructor: Benedict Paten. [Course repository](https://github.com/benedictpaten/intro_python).

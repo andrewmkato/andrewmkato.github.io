@@ -10,6 +10,6 @@ Email: `andrewkato@ucla.edu`
 Department of Linguistics, UCLA   
 Los Angeles, CA 90095-1543
 
-**[Research and papers](research.md)**
-**[Teaching](teaching.md)**
-**[CV](/CV-Kato.pdf)**
+**[Research and papers](research.md)**  
+**[Teaching](teaching.md)**  
+**[CV](/CV-Kato.pdf)**  

@@ -2,11 +2,9 @@
 
 # Research
 
-I study how various hallmarks of natural language meaning, including incremental update, relative gradability, and metalinguistic assertions, can be modeled with theories of logic and computation. 
+I study how various hallmarks of natural language meaning (formal semantics), including discourse dynamics and incremental versus non-incremental update effects, can be modeled in theories of logic and computation. 
 
 * **Papers**
-  * In prep.: Correcting context updates. For: *Logic & Engineering in Natural Language Semantics 21, revised selected papers*, ed. by Daisuke Bekki, Koji Mineshima & David Y. Oshima. Springer Lecture Notes in Computer Science.
-  * In prep.: Dimensions of correction. For: *Proceedings of the LSA* 11.1. 
   * [Relative quantification and equative scope-taking](/papers/Kato2024-AC24.pdf). 2024. In: *Proceedings of the 24th Amsterdam Colloquium*, ed. by Fausto Carcassi, Tamar Johnson, Søren Brinck Knudstorp, Sabrina Domínguez Parrado, Pablo Rivas Robledo & Giorgio Sbardolini. 203--210. Amsterdam: Institute for Logic, Language & Computation. Online: [platform.openjournals.nl/PAC/article/view/21844](https://platform.openjournals.nl/PAC/article/view/21844).
   * Restricting the scope of a relative measure. 2024. In: *University of Washington Working Papers in Linguistics*, ed. by Adeline Braverman. 1--14. Seattle, WA: UWWPL. Online: [osf.io/6qfcu](https://osf.io/6qfcu).
 
@@ -17,4 +15,4 @@ I study how various hallmarks of natural language meaning, including incremental
   * 'Modifying degrees and their proportions.' Jan. 2025. [Syntax & Semantics Circle](https://babel.ucsc.edu/~s-circle/winter2025.html). UC Santa Cruz.
   * 'Relative quantification and equative scope-taking.' Dec. 2024. 24th Amsterdam Colloquium ([AC](https://events.illc.uva.nl/AC/AC2024/Conference/)). UvA. Slides: [PDF](/papers/pres-Kato2024-AC24.pdf).
 
-See CV for earlier talks and details. ORCID: [`0009-0003-3129-5702`](https://orcid.org/0009-0003-3129-5702).
+See CV for earlier details. ORCID: [`0009-0003-3129-5702`](https://orcid.org/0009-0003-3129-5702).

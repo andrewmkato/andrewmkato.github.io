@@ -2,7 +2,7 @@
 
 # Research
 
-I study how various hallmarks of natural language meaning (formal semantics), including discourse dynamics and incremental versus non-incremental update effects, can be modeled in theories of logic and computation. 
+I study how various hallmarks of natural language meaning (formal semantics), including discourse dynamics incremental update effects, and  can be modeled in theories of logic and computation. 
 
 * **Papers**
   * [Relative quantification and equative scope-taking](/papers/Kato2024-AC24.pdf). 2024. In: *Proceedings of the 24th Amsterdam Colloquium*, ed. by Fausto Carcassi, Tamar Johnson, Søren Brinck Knudstorp, Sabrina Domínguez Parrado, Pablo Rivas Robledo & Giorgio Sbardolini. 203--210. Amsterdam: Institute for Logic, Language & Computation. Online: [platform.openjournals.nl/PAC/article/view/21844](https://platform.openjournals.nl/PAC/article/view/21844).

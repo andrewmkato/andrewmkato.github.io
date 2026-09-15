@@ -16,4 +16,4 @@ I study how various hallmarks of natural language meaning (formal semantics), in
   * 'Modifying degrees and their proportions.' Jan. 2025. [Syntax & Semantics Circle](https://babel.ucsc.edu/~s-circle/winter2025.html). UC Santa Cruz.
   * 'Relative quantification and equative scope-taking.' Dec. 2024. 24th Amsterdam Colloquium ([AC](https://events.illc.uva.nl/AC/AC2024/Conference/)). UvA. Slides: [PDF](/papers/pres-Kato2024-AC24.pdf).
 
-See CV for earlier details. ORCID: [`0009-0003-3129-5702`](https://orcid.org/0009-0003-3129-5702).
+ORCID: [`0009-0003-3129-5702`](https://orcid.org/0009-0003-3129-5702).

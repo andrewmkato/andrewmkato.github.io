@@ -3,7 +3,7 @@
 # Teaching
 
 **At UCLA**
-* Currently on fellowship, under [Jessica Rett](https://rett.humspace.ucla.edu).
+  * Currently on fellowship, under [Jessica Rett](https://rett.humspace.ucla.edu).
 
 * **At UC Santa Cruz**
   * As tutor: Semantics I, Winter 2024. Dept. of Linguistics. Instructor: Jess Law.

@@ -2,7 +2,7 @@
 
 # Teaching
 
-**At UCLA**
+* **At UCLA**
   * Currently on fellowship, under [Jessica Rett](https://rett.humspace.ucla.edu).
 
 * **At UC Santa Cruz**

@@ -2,6 +2,9 @@
 
 # Teaching
 
+**At UCLA**
+* Currently on fellowship, under [Jessica Rett](https://rett.humspace.ucla.edu).
+
 * **At UC Santa Cruz**
   * As tutor: Semantics I, Winter 2024. Dept. of Linguistics. Instructor: Jess Law.
   * As tutor: Programming in Python, Winter 2024. Dept. of Computer Science & Engineering. Instructor: Larissa Munishkina.
